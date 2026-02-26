@@ -101,7 +101,7 @@ rec {
         src = pkgs.fetchgit {
           url = "https://github.com/kolloch/nix-base32";
           rev = "42f5544e51187f0c7535d453fcffb4b524c99eb2";
-          sha256 = "011f945b48xkilkqbvbsxazspz5z23ka0s90ms4jiqjbhiwll1nw";
+          sha256 = "1jxc1n02c1mawdh81fbj9j9sbslrps60jqf98n46v0g8kiy6qnvn";
         };
         libName = "nix_base32";
         authors = [
